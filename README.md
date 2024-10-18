@@ -15,8 +15,6 @@ Metric (Column A):
 Active Users
 Questions Asked
 Contents Used
-Likes
-Dislikes
 Conceptual Questions Number
 Logistical Questions Number
 Homework Questions Number
@@ -27,20 +25,12 @@ Value (Column B):
 136 (Active Users)
 2712 (Questions Asked)
 3428 (Contents Used)
-1 (Likes)
-0 (Dislikes)
 1647 (Conceptual Questions Number)
 114 (Logistical Questions Number)
 583 (Homework Questions Number)
 368 (Others Questions Number)
 13 (Number of Content Clicked)
-Bar Chart (Top Right Section):
-A bar chart titled "Student Satisfaction" visualizes the number of Likes and Dislikes:
 
-X-axis (Type): Shows the types (Likes, Dislikes).
-Y-axis (Count): Ranges from 0 to 1.2.
-The bar for Likes is green and has a value of 1.
-The bar for Dislikes is red and has a value of 0.
 Pie Chart (Bottom Section):
 A pie chart titled "Questions Types Distribution" represents the distribution of different types of questions:
 
