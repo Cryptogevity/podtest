@@ -4,3 +4,49 @@
 3. Which foods contain high percentages of saturated fatty acids relative to their unsaturated fatty acid content? Hint - Foods high in saturated fatty acids tend to be solid at room temperature.number of asked times: 16
 4. Coconut is an example of a foodstuff that contains lipids. Which of the following is also a foodstuff with lipids extracted and sold in stores? number of asked times: 15
 5. According to the article on fatty acid types by the Open Oregon Press, fatty acids are vital for the body to function properly. In order to get the proper amount, all fatty acids must be consumed in your diet because they can not be synthesized by you. True False number of asked times:15
+
+
+## table data 
+Table (Top Left Section):
+There is a table with two columns labeled Metric and Value.
+
+Metric (Column A):
+
+Active Users
+Questions Asked
+Contents Used
+Likes
+Dislikes
+Conceptual Questions Number
+Logistical Questions Number
+Homework Questions Number
+Others Questions Number
+Number of Content Clicked
+Value (Column B):
+
+136 (Active Users)
+2712 (Questions Asked)
+3428 (Contents Used)
+1 (Likes)
+0 (Dislikes)
+1647 (Conceptual Questions Number)
+114 (Logistical Questions Number)
+583 (Homework Questions Number)
+368 (Others Questions Number)
+13 (Number of Content Clicked)
+Bar Chart (Top Right Section):
+A bar chart titled "Student Satisfaction" visualizes the number of Likes and Dislikes:
+
+X-axis (Type): Shows the types (Likes, Dislikes).
+Y-axis (Count): Ranges from 0 to 1.2.
+The bar for Likes is green and has a value of 1.
+The bar for Dislikes is red and has a value of 0.
+Pie Chart (Bottom Section):
+A pie chart titled "Questions Types Distribution" represents the distribution of different types of questions:
+
+Conceptual Questions Number: Represented by a blue slice, 61% of the total.
+Logistical Questions Number: Represented by a red slice, 4%.
+Homework Questions Number: Represented by a green slice, 21%.
+Others Questions Number: Represented by a purple slice, 14%.
+Each slice has its respective percentage and type of questions labeled.
+The overall layout is neat, with the table on the left and the charts on the right and below the table. The spreadsheet primarily focuses on summarizing and visualizing student interaction data related to content and satisfaction metrics.
